@@ -60,6 +60,7 @@ If you have a Linux OS you will need a distro with a kernel version >= 4.0 (Ubun
 - attr (sudo apt-get install attr or sudo dnf install attr)
 - Python 3.6 or newer (sudo apt-get install python3.6(3.7) or sudo dnf install python36(37))
 - Pip (sudo apt-get install python3-pip).
+- VirtualEnv (sudo apt-get install python3-venv)
 
 Some distro versions have all of these except `attr` preinstalled but `attr` is a common utility and is available via the package manager.
 
